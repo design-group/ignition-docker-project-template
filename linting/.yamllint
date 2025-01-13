@@ -1,0 +1,6 @@
+rules:
+  truthy:
+    allowed-values: ["on", "off", "true", "false"]
+
+ignore: |
+  .github/workflows/*.yaml
